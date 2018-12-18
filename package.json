@@ -2,6 +2,9 @@
   "name": "glowing-disco",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
   "repository": "https://github.com/Edsauril/glowing-disco.git",
   "author": "<edwin.torres.jr2@gmail.com>",
   "license": "MIT",
